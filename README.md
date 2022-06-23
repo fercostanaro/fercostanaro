@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernanda
-- 👀 I’m interested in learn to program
+- 👀 my contact email is @fernanda.costanaro@escola.pr.gov.br
 - 🌱 I’m currently learning to program
 
 <!---
